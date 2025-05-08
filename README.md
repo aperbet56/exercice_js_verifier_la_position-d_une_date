@@ -3,4 +3,4 @@
 ## Le challenge
 
 Exercice JavaScript : vérifier la position d'une date.
-Créez une ftion qui va permettre de vérifier la position d'une date dans un intervalle.
+Créez une fonction qui va permettre de vérifier la position d'une date dans un intervalle.
